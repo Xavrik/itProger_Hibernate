@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="5e40fe4e-bf10-4c6d-b665-2fbc99a8c9dc" name="itProger_Hibernate" url="jdbc:mysql://localhost:3307/hibernate?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" driverClass="com.mysql.cj.jdbc.Driver" />
+    </data-sources>
+    <data-source-infos>
+      <data-source-info id="" persistence-unit-name="item" />
+    </data-source-infos>
+  </component>
+</project>
